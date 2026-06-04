@@ -1,0 +1,5 @@
+1.props.children to to co wrzucasz między tagi komponentu
+
+2.Bo to jest specjalna, wbudowana nazwa w React.
+
+3.Tekst Element jsx wiele elementow
